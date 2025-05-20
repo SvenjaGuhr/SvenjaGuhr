@@ -2,7 +2,7 @@
 
 I'm Svenja Guhr, postdoctoral researcher at the [fortext lab](https://fortext.org/en/) in computational literary studies. My academic background is in German literature, Romance linguistics, and Digital Humanities. In my PhD project (09/2019-07/2024), I worked on the operationalisation and analysis of sound and loudness as narratological phenomena in German-language literary prose of the 19th and early 20th century.
 
-Please find further information on [my personal website]([https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/guhr/index.en.jsp](https://svenjaguhr.github.io)).
+Please find further information on [my personal website](https://svenjaguhr.github.io).
 
 <!--
 **SvenjaGuhr/SvenjaGuhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
